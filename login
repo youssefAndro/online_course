@@ -1,4 +1,4 @@
 {
-    "status" : OK,
+    "status" : "OK",
     "message" : "Bienvenue"
 }
