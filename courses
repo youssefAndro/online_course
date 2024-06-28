@@ -1,0 +1,54 @@
+{
+  "data": {
+    "courses": [
+      {
+        "category": {
+          "id": 1,
+          "label": "UI/UX Design"
+        },
+        "cover": {
+          "l": "https://m.media-amazon.com/images/I/71Uyy-f9BIL._SL1500_.jpg",
+          "m": "https://m.media-amazon.com/images/I/71Uyy-f9BIL._SL1500_.jpg",
+          "s": "https://m.media-amazon.com/images/I/71Uyy-f9BIL._SL1500_.jpg"
+        },
+        "id": 1,
+        "lessons": [
+          {
+            "id": 1,
+            "label": "Introduction",
+            "reading_time": 300
+          },
+          {
+            "id": 2,
+            "label": "Basic About Design",
+            "reading_time": 3600
+          }
+        ],
+        "mentor": {
+          "firstname": "Johnson",
+          "id": 10,
+          "lastname": "Mate",
+          "profession": "Graphic Designer",
+          "profil_image": {
+            "l": "https://m.media-amazon.com/images/I/71Uyy-f9BIL._SL1500_.jpg",
+            "m": "https://m.media-amazon.com/images/I/71Uyy-f9BIL._SL1500_.jpg",
+            "s": "https://m.media-amazon.com/images/I/71Uyy-f9BIL._SL1500_.jpg"
+          }
+        },
+        "name": "User Interface Design Essentials",
+        "price": {
+          "amount": 100,
+          "currency": "$"
+        },
+        "read_time": 3600,
+        "reading_time": 9500,
+        "review": {
+          "average": 4.5,
+          "count": 80
+        },
+        "short_description": "Product Designers are responsible for coming up with new product designs that meet the needs and wants of consumers. They will have many duties, such as creating design concepts, drawing ideas to determine"
+      }
+    ]
+  },
+  "status": "OK"
+}
